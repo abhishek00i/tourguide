@@ -282,7 +282,7 @@ footer{
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5XcIFNEk9Z8HSfbQgv67bx_syW31r6NA&libraries=places"
+      src="https://maps.googleapis.com/maps/api/js?key=YOUR_google_maps_api_KEY&libraries=places"
       
     ></script>
    
